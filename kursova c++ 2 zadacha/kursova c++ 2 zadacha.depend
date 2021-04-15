@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1610573693 source:e:\university\homework\kursova c++ 2 zadacha\main.cpp
+	<iostream>
+	"thing.h"
+	"vidStoka.h"
+	"stoka.h"
+
+1610574070 source:e:\university\homework\kursova c++ 2 zadacha\vidstoka.cpp
+	<iostream>
+	"vidStoka.h"
+
+1610574070 e:\university\homework\kursova c++ 2 zadacha\vidstoka.h
+	"thing.h"
+
+1610574600 source:e:\university\homework\kursova c++ 2 zadacha\stoka.cpp
+	<iostream>
+	"stoka.h"
+	<iomanip>
+
+1610574472 e:\university\homework\kursova c++ 2 zadacha\stoka.h
+	"vidStoka.h"
+
+1610532363 source:e:\university\homework\kursova c++ 2 zadacha\thing.cpp
+	<iostream>
+	"thing.h"
+
+1610532363 e:\university\homework\kursova c++ 2 zadacha\thing.h
+
+1610574703 source:c:\users\halil\onedrive\Работен плот\kursova c++ 2 zadacha\stoka.cpp
+	<iostream>
+	"stoka.h"
+	<iomanip>
+
+1610574472 c:\users\halil\onedrive\Работен плот\kursova c++ 2 zadacha\stoka.h
+	"vidStoka.h"
+
+1610574070 c:\users\halil\onedrive\Работен плот\kursova c++ 2 zadacha\vidstoka.h
+	"thing.h"
+
+1610532363 c:\users\halil\onedrive\Работен плот\kursova c++ 2 zadacha\thing.h
+
+1610532363 source:c:\users\halil\onedrive\Работен плот\kursova c++ 2 zadacha\thing.cpp
+	<iostream>
+	"thing.h"
+
+1610574070 source:c:\users\halil\onedrive\Работен плот\kursova c++ 2 zadacha\vidstoka.cpp
+	<iostream>
+	"vidStoka.h"
+
